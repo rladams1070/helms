@@ -87,7 +87,7 @@ frontend:
   image:
     repository: rladams/print_dtf_frontend
     pullPolicy: Always
-    tag: ""
+    tag: "0.0.1"
 
   imagePullSecrets: []
   nameOverride: "printdtf-frontend"
