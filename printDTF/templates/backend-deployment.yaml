@@ -65,5 +65,5 @@ spec:
       volumes:
         - name: decals-volume
           hostPath:
-            path: /data/printDTF/
+            path: /data/kubernetes/nextcloud-nextcloud-nextcloud-pvc-efd64e09-a0f7-45b7-8aed-e07bafe918e4/data/rladams/files/DTF
             type: Directory
